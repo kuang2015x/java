@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * describe:shdsldjsld
+ * describe:
  *
  * @author kuang
  * @date 2019-11-07 18:14
