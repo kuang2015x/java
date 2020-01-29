@@ -16,7 +16,6 @@ public class BootStrap {
 
        ProductService product = (ProductService) rpcProxy.remoteCall(ProductService.class,"localhost",10000);
         System.out.println(product.getById(2));
-        System.out.println("------");
-
+        System.out.println("121212");
     }
 }
